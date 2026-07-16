@@ -1,4 +1,4 @@
-Nombre oscar fabian garzon
+Nombre Oscar Fabian Garzon 
 Seccion 1006
 Materia Informatica
 Profesor Frank González
