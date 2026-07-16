@@ -1,4 +1,4 @@
-Nombre Carmen Julieth Cabrera
+Nombre oscar fabian garzon
 Seccion 1006
 Materia Informatica
 Profesor Frank González
